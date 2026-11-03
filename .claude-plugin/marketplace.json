@@ -1,0 +1,16 @@
+{
+  "name": "saenggibu-skill-high",
+  "owner": {
+    "name": "teaju00"
+  },
+  "metadata": {
+    "description": "고등학교 교사용 학교생활기록부 서술형 항목 초안 작성 스킬"
+  },
+  "plugins": [
+    {
+      "name": "school-record-draft-high",
+      "source": "./",
+      "description": "학교생활기록부 서술형 항목(세특·창체·행특) 초안 작성 스킬. 고등학교 2026학년도 기재요령 기준."
+    }
+  ]
+}
